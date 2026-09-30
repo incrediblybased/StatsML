@@ -46,22 +46,6 @@ Conduct a complete exploratory statistical analysis of a real-world dataset, com
 
 Design and implement an end-to-end solution for a real-world problem, covering data preparation, statistical analysis, model development, evaluation, and interpretation.
 
-## Repository Structure
-
-```text
-.
-├── 01_descriptive_statistics/
-├── 02_correlation_preprocessing/
-├── 03_statistical_inference/
-├── 04_resampling_confidence_intervals/
-├── 05_regression/
-├── 06_classification/
-├── 07_clustering_dimensionality_reduction/
-├── 08_model_evaluation_explainability/
-├── 09_case_study/
-├── 10_course_project/
-└── README.md
-```
 
 ## Objective
 
